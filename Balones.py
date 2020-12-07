@@ -1,11 +1,5 @@
 import turtle
 
-wn = turtle.Screen()
-wn.title("Pong by Melvin Portillo")
-wn.bgcolor("black")
-wn.setup(width=1000, height=600)
-wn.tracer(0)
-
 class Balones():
     ball= turtle.Turtle()
 
